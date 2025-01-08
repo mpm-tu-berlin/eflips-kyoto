@@ -1,0 +1,13 @@
+[database]
+    host = "localhost"
+    port = 5432
+    user = "arbeit"
+    password = "moosemoose"
+    dbname = "eflips_kyoto"
+
+[paths]
+    input_sql = "input/kyoto_data_3.sql"
+    output_dir = "output"
+
+[logging]
+    level = "INFO" # DEBUG, INFO, WARNING, ERROR, CRITICAL
