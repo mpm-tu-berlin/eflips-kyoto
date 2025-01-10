@@ -10,7 +10,9 @@ readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "eflips-depot (>=4.4.3,<5.0.0)",
-    "eflips-opt (>=0.1.4,<0.2.0)"
+    "eflips-opt (>=0.1.5,<1.0.0)",
+    "eflips-model (>=6.0.2,<7.0.0)",
+    "eflips-eval (>=1.5.6,<2.0.0)"
 ]
 
 [tool.poetry]
